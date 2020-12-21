@@ -43,7 +43,7 @@
 <br>
 <b>05-01-2021</b> 🤩
 <br>
-![][https://prnt.sc/w7ajiz]
+![](https://prnt.sc/w7ajiz)
 <b>إنتوا قدها 🏅</b>
 
 </div>
