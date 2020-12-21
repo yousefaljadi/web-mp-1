@@ -37,13 +37,13 @@
 ### بونص 🔥
 
 2.  يمكنك استخدام Bootstrap Dropdown Menu
-
-<br>
-آخر موعد لرفع الكود `git push` هو
-<br>
-<b>05-01-2021</b> 🤩
-<br>
-![](https://prnt.sc/w7ajiz)
-<b>إنتوا قدها 🏅</b>
+    <!--
+    <br>
+    آخر موعد لرفع الكود `git push` هو
+    <br>
+    <b>05-01-2021</b> 🤩
+    <br> -->
+    ![](https://prnt.sc/w7ajiz)
+    <!-- <b>إنتوا قدها 🏅</b> -->
 
 </div>
